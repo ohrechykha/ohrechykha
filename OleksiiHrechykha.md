@@ -28,7 +28,7 @@ presentations:
 #    meetingurl: <Meeting url - indico link, etc.>
 #    recordingurl: <Recording url> (Optional)
 #    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-# current_status: >
+current_status: 
 #  A placeholder for status updates
 github-username: ohrechykha
 ---
