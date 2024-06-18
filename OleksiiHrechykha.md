@@ -21,13 +21,13 @@ mentors:
   - Ianna Osborne (Princeton University)
 proposal: assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+#  - title: "<Presentation Title"
+#    date: "Presentation Date"
+#    url: <Presentation materials link>
+#    meeting: <Meeting name>
+#    meetingurl: <Meeting url - indico link, etc.>
+#    recordingurl: <Recording url> (Optional)
+#    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 # current_status: >
 #  A placeholder for status updates
 github-username: ohrechykha
