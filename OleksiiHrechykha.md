@@ -15,7 +15,7 @@ e-mail: alexeee6@gmail.com
 # focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 project_title: Python Ragged array library development
 project_goal: 
-    This project aims at finishing implementation of the functions currently missing from the Python's ragged library.
+     This project aims to complete the implementation of the functions currently missing from Python's Ragged library.
 mentors:
   - Jim Pivarski (Princeton University)
   - Ianna Osborne (Princeton University)
